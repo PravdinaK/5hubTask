@@ -1,4 +1,4 @@
-package com.fivehub.hub;
+package com.fivehub.employee_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
