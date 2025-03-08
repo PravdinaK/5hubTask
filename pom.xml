@@ -22,7 +22,7 @@
 		<developer/>
 	</developers>
 	<modules>
-		<module>discovery_service</module>
+		<module>eureka-server</module>
 		<module>gateway_service</module>
 		<module>employee_service</module>
 		<module>company_service</module>
